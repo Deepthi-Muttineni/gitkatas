@@ -1,1 +1,6 @@
-This is new file edited
+This is new file
+<<<<<<HEAD
+This is an edit on the master branch
+=======
+edited
+>>>>>>merge-conflict-branch1
